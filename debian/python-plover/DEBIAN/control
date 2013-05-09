@@ -1,0 +1,11 @@
+Package: python-plover
+Source: plover
+Version: 2.2.0-1
+Architecture: all
+Maintainer: Thomas Thurman <thomas@thurman.org.uk>
+Installed-Size: 3774
+Depends: python2.7, python (>= 2.7.1-0ubuntu2), python (<< 2.8)
+Section: python
+Priority: optional
+Description: ('Open Source Stenography Software',)
+ Plover is a free open source program intended to bring realtime stenographic technology not just to stenographers, but also to hackers, hobbyists, accessibility mavens, and all-around speed demons.

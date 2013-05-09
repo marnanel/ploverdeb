@@ -1,0 +1,1 @@
+../../../../../share/pyshared/plover/dictionary/check_encoding.py
