@@ -1,7 +1,7 @@
 e9c477a686ee147303926398991b50e9  usr/bin/plover
 1bb8f030e5fec2e52405dfa6f62efe2c  usr/share/applications/Plover.desktop
-969ef712f90b68298e56dcabe3f232ae  usr/share/doc/python-plover/changelog.Debian.gz
-d597a3a2ad82f98465e7e56b4340b8c0  usr/share/doc/python-plover/copyright
+4d8a8d09b47c9953720ff49104fe61a2  usr/share/doc/python-plover/changelog.Debian.gz
+f4a120774995321cf76388f5b489755f  usr/share/doc/python-plover/copyright
 8d39cf132cfe3e2487ea9eb511a25b56  usr/share/pixmaps/plover_on.png
 a45941a1f0e816ba19f1fad0e410f725  usr/share/pyshared/plover-2.2.0.egg-info
 9a65799891ded09824819e211124e414  usr/share/pyshared/plover/__init__.py
