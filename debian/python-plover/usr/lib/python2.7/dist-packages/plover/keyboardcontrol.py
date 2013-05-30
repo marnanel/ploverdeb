@@ -1,1 +1,0 @@
-../../../../share/pyshared/plover/keyboardcontrol.py

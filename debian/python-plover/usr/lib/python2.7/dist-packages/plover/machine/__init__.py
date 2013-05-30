@@ -1,1 +1,0 @@
-../../../../../share/pyshared/plover/machine/__init__.py

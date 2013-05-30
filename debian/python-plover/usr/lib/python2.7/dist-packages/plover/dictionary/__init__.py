@@ -1,1 +1,0 @@
-../../../../../share/pyshared/plover/dictionary/__init__.py
