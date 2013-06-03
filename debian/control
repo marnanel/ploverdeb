@@ -3,12 +3,12 @@ Maintainer: Thomas Thurman <thomas@thurman.org.uk>
 Section: python
 Priority: optional
 Build-Depends: python-all (>= 2.6.6-3), debhelper (>= 7.4.3)
+Homepage: http://ploversteno.org
 Standards-Version: 3.9.4
 
 Package: plover
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}
-Homepage: http://ploversteno.org
 Description: Stenotype input method
  Plover is a stenotype input method for X11. It allows input of English text
  using chords rather than letter by letter, enabling typing speeds to
